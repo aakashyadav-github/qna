@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "question": "Which of the following is the correct name of React.js?",
+        "options" : ["React", "React.js","ReactJS","All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "id":2,
+        "question": "What of the following is used in React.js to increase performance?",
+        "options" : ["Original DOM", "Virtual DOM","Both A and B","None"],
+        "answer": "Virtual DOM"
+    },
+    {
+        "id":3,
+        "question": "Which of the following acts as the input of a class-based component?",
+        "options" : ["Class", "Factory","Render","Props"],
+        "answer": "Props"
+    }
+]
